@@ -1,10 +1,10 @@
 ## Snowflake-Crystal-Growth
 
-## Output: 
-# Medium Rule
+### Output: 
+### Medium Rule
 ![Image of MediumIce rule Crystal](https://github.com/harshitmandada1/Snowflake-Crystal-Growth/blob/master/out/production/Crystal%20Growth/MediumIce.png)
 
-# Extreme Rule
+### Extreme Rule
 ![Image of ExtremeIce rule Crystal](https://github.com/harshitmandada1/Snowflake-Crystal-Growth/blob/master/out/production/Crystal%20Growth/ExtremeIce.png)
 
 ## Features:
