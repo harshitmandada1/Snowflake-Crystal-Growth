@@ -1,6 +1,6 @@
 ## Snowflake-Crystal-Growth
 
-### Output: 
+## Output: 
 ### Medium Rule
 ![Image of MediumIce rule Crystal](https://github.com/harshitmandada1/Snowflake-Crystal-Growth/blob/master/out/production/Crystal%20Growth/MediumIce.png)
 
