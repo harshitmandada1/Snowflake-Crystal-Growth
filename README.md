@@ -1,7 +1,7 @@
 ## Snowflake-Crystal-Growth
 
 ## Output: 
-![Image of MediumIce rule Crystal](out/production/Crystal Growth/MediumIce.png)
+![Image of MediumIce rule Crystal](https://github.com/harshitmandada1/Snowflake-Crystal-Growth/blob/master/out/production/Crystal%20Growth/MediumIce.png)
 
 ![Image of ExtremeIce rule Crystal](out/production/Crystal Growth/ExtremeIce.png)
 
