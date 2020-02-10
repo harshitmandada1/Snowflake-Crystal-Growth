@@ -1,9 +1,9 @@
 ## Snowflake-Crystal-Growth
 
 ## Output: 
-![Image of MediumIce rule Crystal](./out/production/Crystal Growth/MediumIce.png)
+![Image of MediumIce rule Crystal](.../out/production/Crystal Growth/MediumIce.png)
 
-![Image of ExtremeIce rule Crystal](./out/production/Crystal Growth/ExtremeIce.png)
+![Image of ExtremeIce rule Crystal](.../out/production/Crystal Growth/ExtremeIce.png)
 
 ## Features:
 1. Select any rule to generate a crystal.
